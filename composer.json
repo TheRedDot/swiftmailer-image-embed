@@ -1,12 +1,12 @@
 {
-  "name": "hexanet/swiftmailer-image-embed",
+  "name": "thereddot/swiftmailer-image-embed",
   "type": "library",
   "description": "Swiftmailer plugin to automatically embed images into message",
   "keywords": [ "swiftmailer", "image" ],
-  "homepage": "https://github.com/Hexanet/swiftmailer-image-embed",
+  "homepage": "https://github.com/TheRedDot/swiftmailer-image-embed",
   "license": "MIT",
   "authors": [
-    { "name": "Nicolas Hart", "email": "nhart@hexanet.fr" }
+    { "name": "Nicolas Hart" }
   ],
   "require": {
     "php": "^7.1",

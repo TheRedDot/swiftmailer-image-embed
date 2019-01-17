@@ -1,6 +1,6 @@
 # Swiftmailer Image Embed Plugin
 
-[![Build Status](https://travis-ci.org/Hexanet/swiftmailer-image-embed.svg)](https://travis-ci.org/Hexanet/swiftmailer-image-embed) [![Total Downloads](https://poser.pugx.org/hexanet/swiftmailer-image-embed/downloads.png)](https://packagist.org/packages/hexanet/swiftmailer-image-embed) [![Latest Stable Version](https://poser.pugx.org/hexanet/swiftmailer-image-embed/v/stable.png)](https://packagist.org/packages/hexanet/swiftmailer-image-embed)
+[![Build Status](https://travis-ci.org/TheRedDot/swiftmailer-image-embed.svg)](https://travis-ci.org/Hexanet/swiftmailer-image-embed) [![Total Downloads](https://poser.pugx.org/TheRedDot/swiftmailer-image-embed/downloads.png)](https://packagist.org/packages/TheRedDot/swiftmailer-image-embed) [![Latest Stable Version](https://poser.pugx.org/TheRedDot/swiftmailer-image-embed/v/stable.png)](https://packagist.org/packages/TheRedDot/swiftmailer-image-embed)
 
 Swiftmailer plugin to automatically embed images into message by using CID (Content-ID).
 
@@ -33,7 +33,7 @@ With the plugin the following email will be generated:
 ## Installation
 
 ```
-composer require hexanet/swiftmailer-image-embed
+composer require thereddot/swiftmailer-image-embed
 ```
 
 ## Usage
@@ -58,8 +58,8 @@ The arguments are optional.
 
 ## Credits
 
-Developed by [Hexanet](https://www.hexanet.fr/).
+Forked from [Hexanet/swiftmailer-image-embed](https://github.com/Hexanet/swiftmailer-image-embed).
 
 ## License
 
-[Swiftmailer Image Embed Plugin](https://github.com/Hexanet/swiftmailer-image-embed) is licensed under the [MIT license](LICENSE).
+[Swiftmailer Image Embed Plugin](https://github.com/TheRedDot/swiftmailer-image-embed) is licensed under the [MIT license](LICENSE).
