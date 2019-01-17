@@ -22,5 +22,8 @@
     "psr-4": { "Hexanet\\Swiftmailer\\": "src" }
   },
   "autoload-dev": {
+  },
+  "replace": {
+    "hexanet/swiftmailer-image-embed": "self.version"
   }
 }
