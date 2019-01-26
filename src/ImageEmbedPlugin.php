@@ -81,7 +81,7 @@ class ImageEmbedPlugin implements Swift_Events_SendListener
             }
         }
 
-        return utf8_decode($dom->saveHTML($dom->documentElement));
+        return $dom->saveHTML();
     }
 
     protected function isUrl(string $path) : bool
