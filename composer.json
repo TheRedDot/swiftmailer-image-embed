@@ -6,7 +6,8 @@
   "homepage": "https://github.com/TheRedDot/swiftmailer-image-embed",
   "license": "MIT",
   "authors": [
-    { "name": "Nicolas Hart" }
+    { "name": "Nicolas Hart" },
+    { "name": "Floran Brutel" }
   ],
   "require": {
     "php": "^7.1",
