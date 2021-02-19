@@ -10,7 +10,7 @@
     { "name": "Floran Brutel" }
   ],
   "require": {
-    "php": "^7.1",
+    "php": ">=7.1",
     "swiftmailer/swiftmailer": "^6.0"
   },
   "require-dev": {
@@ -26,5 +26,8 @@
   },
   "replace": {
     "hexanet/swiftmailer-image-embed": "self.version"
-  }
+  },
+  "config": {
+      "platform": {"php": "7.1"}
+    }
 }
