@@ -1,12 +1,14 @@
 # Swiftmailer Image Embed Plugin
 
+**❗ This package is abandoned and no longer actively maintained.**
+
 [![Build Status](https://travis-ci.org/TheRedDot/swiftmailer-image-embed.svg)](https://travis-ci.org/Hexanet/swiftmailer-image-embed) [![Total Downloads](https://poser.pugx.org/TheRedDot/swiftmailer-image-embed/downloads.png)](https://packagist.org/packages/TheRedDot/swiftmailer-image-embed) [![Latest Stable Version](https://poser.pugx.org/TheRedDot/swiftmailer-image-embed/v/stable.png)](https://packagist.org/packages/TheRedDot/swiftmailer-image-embed)
 
 Swiftmailer plugin to automatically embed images into message by using CID (Content-ID).
 
 See https://swiftmailer.symfony.com/docs/messages.html#embedding-inline-media-files for more informations.
 
-Example: 
+Example:
 
 ```html
 <html>
@@ -18,7 +20,7 @@ Example:
 </html>
 ```
 
-With the plugin the following email will be generated: 
+With the plugin the following email will be generated:
 
 ```html
 <html>
